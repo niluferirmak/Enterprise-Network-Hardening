@@ -54,4 +54,4 @@ Technical confirmation from the Switch CLI showing the `Secure-shutdown` status 
 
 ## 📁 Repository Structure
 * `assets/`: Contains the technical evidence and screenshots used in this README.
-* `Enterprise-Network.pkt`: The Cisco Packet Tracer source file for simulation and review.
+* `Enterprise-Network-Hardening.pkt`: The Cisco Packet Tracer source file for simulation and review.
